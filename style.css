@@ -6,7 +6,9 @@
   font-style: normal;
   font-display: swap;
 }
-
+div#ppToast {
+    display: none;
+}
 /* === CSS Variables: Global Colors === */
 :root {
   --sienna: #b1560e;
